@@ -47,13 +47,7 @@ This project is a web application built using Flask that allows users to registe
 
 ## Project Structure
 
-```bash
-.
-├── templates
-│   ├── login.html        # Login page
-│   ├── register.html     # Registration page
-│   ├── contact.html      # Contact submission page (home)
-│   └── dashboard.html    # Dashboard to view all submissions
+``
 ├── app.py                # Main Flask application
 ├── database.db           # SQLite database file (auto-generated)
 ├── README.md             # Project README
