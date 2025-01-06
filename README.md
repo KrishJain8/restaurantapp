@@ -1,6 +1,8 @@
-# Flask User Authentication and Contact Management System
+## Project Abstract
 
-This project is a web-based contact management system built using Flask. It includes user authentication (registration, login, and logout) along with a system to submit and store contact messages in a SQLite database. The application uses Flask-Login for user session management and Flask-SQLAlchemy for ORM database operations.
+This project is a web application built using Flask that allows users to register, log in, and manage contact form submissions. The application provides user authentication using Flask-Login and stores user credentials and contact form data in an SQLite database. Once authenticated, users can submit contact messages, which are saved in the database. The system also includes a dashboard for viewing all submitted contact forms, which is accessible only to logged-in users. This project demonstrates the use of Flask for web development, including session management, database integration with SQLAlchemy, and form handling in a lightweight and secure environment.
+
+
 
 ## Features
 
